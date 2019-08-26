@@ -1,0 +1,16 @@
+{
+  "name": "reddit-api-react-redux",
+  "version": "1.0.0",
+  "description": "Taken from Redux docs:\n\nhttp://redux.js.org/docs/advanced/ExampleRedditAPI.html",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "redux-thunk": "2.2.0",
+    "redux-logger": "3.0.6",
+    "redux": "3.7.2",
+    "react-redux": "5.0.6",
+    "react-dom": "15.5.3",
+    "react": "15.5.3",
+    "isomorphic-fetch": "2.2.1"
+  }
+}
